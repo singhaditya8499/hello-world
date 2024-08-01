@@ -10,6 +10,9 @@
     ========================================================  */
 
 
+// Temporary changes added to the file
+
+
 (function ($) {
     "use strict";
     var mainApp = {
